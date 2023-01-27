@@ -1,0 +1,11 @@
+---
+title: "Test"
+format:
+  html:
+    theme: default
+---
+
+```{r}
+2+2
+```
+
